@@ -8,7 +8,7 @@ body {
 
 nav#navbar {
     background-color: #b3cccc;
-    border: 0;
+    border: 1px solid #558383;
     border-radius: 0;
 }
 
