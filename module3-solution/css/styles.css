@@ -42,6 +42,10 @@ a.navbar-brand h1 {
     background-color: transparent;
 }
 
+.nav-item {
+    width: 100%;
+}
+
 #chicken,
 #beef,
 #sushi {
